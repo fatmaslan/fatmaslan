@@ -13,4 +13,4 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmaaslan1&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fatmaaslan&show_icons=true)
